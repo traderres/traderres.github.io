@@ -1,7 +1,6 @@
 ## Welcome to my Github Site
 
-The webclsas repo holds all of my notes
-
+This is a work-in-progress
 
 This site corresponds to https://traderres.github.io/
 
